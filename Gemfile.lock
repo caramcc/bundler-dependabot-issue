@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/RubyMoney/money-rails.git
+  remote: git://github.com/RubyMoney/money-rails.git
   revision: 8df9d518ed3cb945beab3d100f26da2a483d68fd
   specs:
     money-rails (1.13.2)
@@ -66,7 +66,7 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    vcr (3.0.0)
+    vcr (5.0.0)
 
 PLATFORMS
   ruby
