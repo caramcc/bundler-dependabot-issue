@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/RubyMoney/money-rails.git
+  remote: https://github.com/RubyMoney/money-rails.git
   revision: 8df9d518ed3cb945beab3d100f26da2a483d68fd
   specs:
     money-rails (1.13.2)
@@ -74,4 +74,4 @@ DEPENDENCIES
   money-rails!
 
 BUNDLED WITH
-   1.16.2
+   2.0.2
